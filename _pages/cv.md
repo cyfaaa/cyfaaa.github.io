@@ -24,7 +24,7 @@ Houda Ferradi, Jiannong Cao, Shan Jiang, **Yinfeng Cao**, & Divya Saxena (2022).
 
 **CAO, Y.**, Jiannong Cao, Yuqin Wang, Kaile Wang, & Xun Liu (2022). Security in Edge Blockchains Security in Edge Blockchains: Attacks and Countermeasures. ZTE COMMUNICATIONS, 20(4).
 
-**Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2022). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection, IEEE International Conference on Intelligent Metaverse Technologies & Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. \textcolor{red}{Best Paper Award Nomination}
+**Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection, IEEE International Conference on Intelligent Metaverse Technologies & Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. \textcolor{red}{Best Paper Award Nomination}
 
 
 Teaching
