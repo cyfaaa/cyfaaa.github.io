@@ -8,23 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Yinfeng is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong PolyTechnic University (PolyU)</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu.edu.hk/~labimcl/index.html) @ [The Hong Kong PolyTechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
 
 
 ## Research Interests
-======
-* Blockchain empowered Edge Computing
-* Blockchain as a Service (BaaS)
+* Blockchain-empowered Edge Computing
+* Blockchain-as-a-Service (BaaS)
 * Applied Cryptography
 * Metaverse
 
 ## Education
-======
 * Ph.D canidate in the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, 2024 (expected)
 * B.S. in Information Security (experimental class), Xidian University, China, 2020
 
 ## Publications
-======
 * **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2022). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection, IEEE International Conference on Intelligent Metaverse Technologies & Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. <span style="color:red"> Best Paper Award Nomination</span>
 * **Yinfeng Cao**, Jiannong Cao, Yuqin Wang, Kaile Wang, & Xun Liu (2022). Security in Edge Blockchains Security in Edge Blockchains: Attacks and Countermeasures. ZTE COMMUNICATIONS, 20(4).
 * Houda Ferradi, Jiannong Cao, Shan Jiang, **Yinfeng Cao**, & Divya Saxena (2022). Security and Privacy in Big Data Sharing: State-of-the-Art and Research Directions. arXiv preprint arXiv:2210.09230.
@@ -50,5 +47,5 @@ Yinfeng is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu
 * Gold award of The China International College Students ''Internet + ' Innovation and Entrepreneurship Competition, 2018
 
 ## Scholarships
-* Xidian University Innovation Scholarship 2019
-* Xidian-Shenzhen Whale Foundation Innovation Scholarship 2018
+* Xidian University Innovation Scholarship, 2019
+* Xidian-Shenzhen Whale Foundation Innovation Scholarship, 2018
