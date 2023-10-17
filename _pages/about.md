@@ -18,7 +18,7 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 * Metaverse
 
 ## Education
-* Ph.D canidate in the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, 2024 (expected)
+* Ph.D candidate in the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, 2024 (expected)
 * B.S. in Information Security (experimental class), Xidian University, China, 2020
 
 ## Publications
