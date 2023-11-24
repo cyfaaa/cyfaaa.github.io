@@ -15,11 +15,11 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 * Blockchain-empowered Edge Computing
 * Blockchain-as-a-Service (BaaS)
 * Applied Cryptography
-* Metaverse
+* Metaverse and Web3
 
 ## Education
-* Ph.D candidate in the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, 2024 (expected)
-* B.S. in Information Security (experimental class), Xidian University, China, 2020
+* Ph.D candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong, 2024 (expected)
+* B.S. in Information Security (experimental class), [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
 ## Publications
 * **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection, IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. <span style="color:red"> Best Paper Award Nomination</span>
