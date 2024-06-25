@@ -25,8 +25,8 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 
 ## Publications
 
-**Yinfeng Cao**, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2023). "PolyTwin: Edge Blockchain-empowered
-Trustworthy Digital Twin Network for Metaverse". The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024), Hong Kong.
+* **Yinfeng Cao**, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2023). "PolyTwin: Edge Blockchain-empowered
+Trustworthy Digital Twin Network for Metaverse". The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024), 12-15 August 2024, Hong Kong.
 
 * **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection. IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. <span style="color:red"> Best Paper Award Nomination</span>
 * **Yinfeng Cao**, Jiannong Cao, Yuqin Wang, Kaile Wang, and Xun Liu (2022). Security in Edge Blockchains Security in Edge Blockchains: Attacks and Countermeasures. ZTE COMMUNICATIONS, 20(4).
