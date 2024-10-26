@@ -12,20 +12,25 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 
 
 ## Research Interests
-* Blockchain-empowered Edge Computing
-* Blockchain-as-a-Service (BaaS)
-* Metaverse and Web3
+* Web3
+* Decentralized Finance (DeFi)
+* Metaverse
+* Blockchain
+* Edge Computing
 
 ## Thesis Topic (TBD)
 * Edge-Blockchain Joint Enabled Computing for Web3 Applications
 
 ## Education
-* Ph.D candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong, 2024 (expected)
+* Ph.D candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-Current
 * B.S, [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
 ## Publications
 
-* **Yinfeng Cao**, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2023). "PolyTwin: Edge Blockchain-empowered
+* **Yinfeng Cao**, Jiannong Cao, Hongbo Liu, Zeyang Cui and Long Wen. (2024). "Eden: An Edge Computing Empowered Proof-of-Personhood Protocol for Anti-Sybil in Blockchain-based Metaverse". The 2nd International Conference on Intelligent Metaverse Technologies & Applications (iMETA2024)
+26-29 November 2024, Dubai, UAE
+
+* **Yinfeng Cao**, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2024). "PolyTwin: Edge Blockchain-empowered
 Trustworthy Digital Twin Network for Metaverse". The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024), 12-15 August 2024, Hong Kong.
 
 * **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection. IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023), 18-20 September 2023, Tartu, Estonia. <span style="color:red"> Best Paper Award Nomination</span>
