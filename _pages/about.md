@@ -14,6 +14,7 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 ## Research Interests
 * Web3
 * Decentralized Finance (DeFi)
+* Digital Twin
 * Metaverse
 * Blockchain
 * Edge Computing
@@ -27,6 +28,12 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 * B.S, [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
 ## Publications
+
+
+
+* **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Long Wen, Yang LIU, and Ruidong Li (2025). "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications". The ACM Web Conference 2025 (WWW 2025) Sydney, Australia 
+
+
 
 * **Yinfeng Cao**, Jiannong Cao, Hongbo Liu, Zeyang Cui and Long Wen. (2024). "Eden: An Edge Computing Empowered Proof-of-Personhood Protocol for Anti-Sybil in Blockchain-based Metaverse". The 2nd International Conference on Intelligent Metaverse Technologies & Applications (iMETA2024)
 26-29 November 2024, Dubai, UAE
@@ -42,8 +49,8 @@ Trustworthy Digital Twin Network for Metaverse". The 2nd Annual IEEE Internation
 
 ## Services
 * (Conference Reviewer) WWW, INFOCOM, etc.
-* (Journal Revirwer) IEEE Transactions on Communications, IEEE IoTJ, Computer Communications, High-Confidence Computing, ZTE Communications, etc.
-* (Program Committee Member) iMETA2024.
+* (Journal Reviewer) IEEE Transactions on Communications, IEEE Network, IEEE IoTJ, Computer Communications, High-Confidence Computing, ZTE Communications, etc.
+* (Program Committee Member / Chairs) iMETA2024, HealthCom 2024.
 
 ## Teaching Experience
 * Teaching Assistant, 2023 Fall, COMP5140: Metaverse Fundamentals
