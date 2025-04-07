@@ -23,9 +23,9 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 * Edge-Blockchain Joint Enabled Computing for Web3 Applications
 
 ## Education
-* Ph.D candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-Current
+* Ph.D. candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-Current
 * Research Visiting Student (supervised by [Prof. Ruidong Li](https://sites.google.com/site/liruidong/)), [Kanazawa University (金沢大学)](http://www.kanazawa-u.ac.jp), Japan, 2024-2025 
-* B.S, [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
+* B.E., [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
 ## Publications
 
