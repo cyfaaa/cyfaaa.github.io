@@ -29,7 +29,7 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 
 ## Publications
 
-
+* **Yinfeng Cao**, Jiannong Cao, Baoxia Du, and Ruidong Li* (2025). "Decentralized Digital Twin Network". IEEE Communications Magazine
 
 * **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Long Wen, Yang LIU, and Ruidong Li (2025). "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications". The ACM Web Conference 2025 (WWW 2025) Sydney, Australia 
 
