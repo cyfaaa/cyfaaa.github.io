@@ -21,6 +21,7 @@ Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking f
 * Blockchain
 * Edge Computing
 
+My research aims at developing secure and scalable decentralized infrastructures (e.g., blockchains) for Web3 and other critical applications like digital twins.
 
 ## Education
 * Ph.D., in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-2025
@@ -63,9 +64,9 @@ Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking f
 
 
 ## Services
+* (Program Committee Member / Chairs) iMETA2024, HealthCom 2024, MetaCom2026.
 * (Conference Reviewer) WWW, INFOCOM, etc.
 * (Journal Reviewer) IEEE Transactions on Communications, IEEE Network, IEEE IoTJ, Computer Communications, High-Confidence Computing, ZTE Communications, etc.
-* (Program Committee Member / Chairs) iMETA2024, HealthCom 2024.
 
 ## Teaching Experience
 * Teaching Assistant, 2023 Fall, COMP5140: Metaverse Fundamentals
