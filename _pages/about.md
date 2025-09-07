@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu.edu.hk/~labimcl/index.html) @ [The Hong Kong PolyTechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
+Yinfeng is a PhD  from [IMCL Group](https://www4.comp.polyu.edu.hk/~labimcl/index.html) @ [The Hong Kong PolyTechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 
+
+Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking forward to connecting and collaborating!
 
 
 ## Research Interests
@@ -19,15 +21,30 @@ Yinfeng is currently a PhD candidate in the [IMCL Group](https://www4.comp.polyu
 * Blockchain
 * Edge Computing
 
-## Thesis Topic (TBD)
-* Edge-Blockchain Joint Enabled Computing for Web3 Applications
 
 ## Education
-* Ph.D. candidate in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-Current
+* Ph.D., in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-2025
 * Research Visiting Student (supervised by [Prof. Ruidong Li](https://sites.google.com/site/liruidong/)), [Kanazawa University (金沢大学)](http://www.kanazawa-u.ac.jp), Japan, 2024-2025 
 * B.E., [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
+## Projects
+
+### MAP Protocol
+- Omnichain interoperability for BTC, stablecoins, and tokenized assets using Light Clients and MPC-TSS. Peer-to-peer cross-chain swaps without trusted third parties.
+- Website: https://www.mapprotocol.io
+
+![MAP Protocol](/images/projects/MAP.png)
+
+### Digital Twins
+- Edge blockchain-empowered trustworthy Digital Twin networks for Metaverse and CPS.
+
+![Digital Twins](/images/projects/DT1.png)
+
 ## Publications
+
+* Toshiki Takakubo, **Yinfeng Cao**, Ruidong Li, Jiannong Cao. (2025) "UnionChain: A Graph-based Shard Partitioning for Scalable Smart Contract Execution". *3rd IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2025)*.
+
+* Hongbo Liu, Jiannong Cao, **Yinfeng Cao***， Dongbin Bai, Jinwen Liang, Ruidong Li. (2025) "EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN". *Cluster Computing*. **JCR Q1**.
 
 * **Yinfeng Cao**, Jiannong Cao, Baoxia Du, and Ruidong Li* (2025). "Decentralized Digital Twin Network". IEEE Communications Magazine
 
