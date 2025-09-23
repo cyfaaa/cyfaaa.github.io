@@ -1,7 +1,15 @@
 ---
 permalink: /
 title: "Yinfeng CAO"
-excerpt: "About Me"
+excer## Publications
+
+* Jingwen Liang, Jiannong Cao, Bo Yang, Dongbin Bai, Hongbo Liu, **Yinfeng Cao*** (2025) "Decentralized Physical Infrastructure Networks: Backgrounds, Architectures, Open Issues, and Case Studies". *IEEE Blockchain 2025*.
+
+* Hongbo Liu, Jiannong Cao, Bo Yang, Dongbin Bai, **Yinfeng Cao***, Xiaoming Shen, Yinan Zhang, Jingwen Liang, Shan Jiang, Mingjin Zhang. (2025) "PolyLink: A Blockchain Based Decentralized Edge AI Platform For LLM Inference". *IEEE Blockchain 2025*.
+
+* Toshiki Takakubo, **Yinfeng Cao**, Ruidong Li, Jiannong Cao. (2025) "UnionChain: A Graph-based Shard Partitioning for Scalable Smart Contract Execution". *3rd IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2025)*.
+
+* Hongbo Liu, Jiannong Cao, **Yinfeng Cao***, Dongbin Bai, Jinwen Liang, Ruidong Li. (2025) "EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN". *Cluster Computing*. **JCR Q1**.About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +29,7 @@ Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking f
 * Blockchain
 * Edge Computing
 
-My research aims at developing secure and scalable decentralized infrastructures (e.g., blockchains) for Web3 and other critical applications like digital twins.
+My research aims at developing secure and scalable decentralized infrastructures (e.g., blockchains) for Web3 and other critical applications like digital twins and decentralized AI.
 
 ## Education
 * Ph.D., in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-2025
