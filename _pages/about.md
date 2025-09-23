@@ -48,29 +48,29 @@ My research aims at developing secure and scalable decentralized infrastructures
 
 ## Publications
 
-* Jingwen Liang, Jiannong Cao, Bo Yang, Dongbin Bai, Hongbo Liu, **Yinfeng Cao*** (2025) "Decentralized Physical Infrastructure Networks: Backgrounds, Architectures, Open Issues, and Case Studies". *IEEE Blockchain 2025*.
+* (C9) Jingwen Liang, Jiannong Cao, Bo Yang, Dongbin Bai, Hongbo Liu, <u>Yinfeng Cao</u>* (2025) "Decentralized Physical Infrastructure Networks: Backgrounds, Architectures, Open Issues, and Case Studies". *IEEE Blockchain 2025*.
 
-* Hongbo Liu, Jiannong Cao, Bo Yang, Dongbin Bai, **Yinfeng Cao***, Xiaoming Shen, Yinan Zhang, Jingwen Liang, Shan Jiang, Mingjin Zhang. (2025) "PolyLink: A Blockchain Based Decentralized Edge AI Platform For LLM Inference". *IEEE Blockchain 2025*.
+* (C8) Hongbo Liu, Jiannong Cao, Bo Yang, Dongbin Bai, <u>Yinfeng Cao</u>*, Xiaoming Shen, Yinan Zhang, Jingwen Liang, Shan Jiang, Mingjin Zhang. (2025) "PolyLink: A Blockchain Based Decentralized Edge AI Platform For LLM Inference". *IEEE Blockchain 2025*.
 
-* Toshiki Takakubo, **Yinfeng Cao**, Ruidong Li, Jiannong Cao. (2025) "UnionChain: A Graph-based Shard Partitioning for Scalable Smart Contract Execution". *3rd IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2025)*.
+* (C7) Toshiki Takakubo, <u>Yinfeng Cao</u>, Ruidong Li, Jiannong Cao. (2025) "UnionChain: A Graph-based Shard Partitioning for Scalable Smart Contract Execution". *3rd IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2025)*.
 
-* Hongbo Liu, Jiannong Cao, **Yinfeng Cao***, Dongbin Bai, Jinwen Liang, Ruidong Li. (2025) "EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN". *Cluster Computing*. **JCR Q1**.
+* (C6) <u>Yinfeng Cao</u>, Jiannong Cao, Dongbin Bai, Long Wen, Yang LIU, and Ruidong Li (2025). "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications". *The ACM Web Conference 2025 (WWW 2025)*, Sydney, Australia.
 
-* **Yinfeng Cao**, Jiannong Cao, Baoxia Du, and Ruidong Li* (2025). "Decentralized Digital Twin Network". *IEEE Communications Magazine*.
+* (J3) Hongbo Liu, Jiannong Cao, <u>Yinfeng Cao</u>*, Dongbin Bai, Jinwen Liang, Ruidong Li. (2025) "EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN". *Cluster Computing*. **JCR Q1**.
 
-* **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Long Wen, Yang LIU, and Ruidong Li (2025). "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications". *The ACM Web Conference 2025 (WWW 2025)*, Sydney, Australia.
+* (J4) <u>Yinfeng Cao</u>, Jiannong Cao, Baoxia Du, and Ruidong Li* (2025). "Decentralized Digital Twin Network". *IEEE Communications Magazine*.
 
-* **Yinfeng Cao**, Jiannong Cao, Hongbo Liu, Zeyang Cui and Long Wen. (2024). "Eden: An Edge Computing Empowered Proof-of-Personhood Protocol for Anti-Sybil in Blockchain-based Metaverse". *The 2nd International Conference on Intelligent Metaverse Technologies & Applications (iMETA2024)*, 26-29 November 2024, Dubai, UAE.
+* (C5) <u>Yinfeng Cao</u>, Jiannong Cao, Hongbo Liu, Zeyang Cui and Long Wen. (2024). "Eden: An Edge Computing Empowered Proof-of-Personhood Protocol for Anti-Sybil in Blockchain-based Metaverse". *The 2nd International Conference on Intelligent Metaverse Technologies & Applications (iMETA2024)*, 26-29 November 2024, Dubai, UAE.
 
-* **Yinfeng Cao**, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2024). "PolyTwin: Edge Blockchain-empowered Trustworthy Digital Twin Network for Metaverse". *The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024)*, 12-15 August 2024, Hong Kong.
+* (C4) <u>Yinfeng Cao</u>, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen. (2024). "PolyTwin: Edge Blockchain-empowered Trustworthy Digital Twin Network for Metaverse". *The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024)*, 12-15 August 2024, Hong Kong.
 
-* **Yinfeng Cao**, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). "PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection". *IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023)*, 18-20 September 2023, Tartu, Estonia. **Best Paper Award Nomination**.
+* (C3) <u>Yinfeng Cao</u>, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang* (2023). "PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection". *IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023)*, 18-20 September 2023, Tartu, Estonia. **Best Paper Award Nomination**.
 
-* **Yinfeng Cao**, Jiannong Cao, Yuqin Wang, Kaile Wang, and Xun Liu (2022). "Security in Edge Blockchains: Attacks and Countermeasures". *ZTE COMMUNICATIONS*, 20(4).
+* (J1) <u>Yinfeng Cao</u>, Jiannong Cao, Yuqin Wang, Kaile Wang, and Xun Liu (2022). "Security in Edge Blockchains: Attacks and Countermeasures". *ZTE COMMUNICATIONS*, 20(4).
 
-* Houda Ferradi, Jiannong Cao, Shan Jiang, **Yinfeng Cao**, and Divya Saxena (2022). "Security and Privacy in Big Data Sharing: State-of-the-Art and Research Directions". *arXiv preprint arXiv:2210.09230*.
+* (J2) Houda Ferradi, Jiannong Cao, Shan Jiang, <u>Yinfeng Cao</u>, and Divya Saxena (2022). "Security and Privacy in Big Data Sharing: State-of-the-Art and Research Directions". *arXiv preprint arXiv:2210.09230*.
 
-* Shan Jiang, Jiannong Cao, Juncen Zhu, and **Yinfeng Cao** (2021). "Polychain: a generic blockchain as a service platform". *In Blockchain and Trustworthy Systems: Third International Conference, BlockSys 2021*, Guangzhou, China, August 5–6, 2021, Revised Selected Papers 3 (pp. 459-472). Springer Singapore. **Best Paper Award**.
+* (C1) Shan Jiang, Jiannong Cao, Juncen Zhu, and <u>Yinfeng Cao</u> (2021). "Polychain: a generic blockchain as a service platform". *In Blockchain and Trustworthy Systems: Third International Conference, BlockSys 2021*, Guangzhou, China, August 5–6, 2021, Revised Selected Papers 3 (pp. 459-472). Springer Singapore. **Best Paper Award**.
 
 
 ## Services
