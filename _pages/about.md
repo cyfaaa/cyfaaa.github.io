@@ -31,10 +31,10 @@ My research aims at developing secure and scalable decentralized infrastructures
 
 ### PolyLink
 * A blockchain-based decentralized edge AI platform for large language model (LLM) inference. 
+* Website: [PolyLink](https://polylink.evan.cafe)
 
 ![PolyLink](/images/projects/PolyLink.png)
 
-Website: [PolyLink](https://polylink.evan.cafe)
 ### MAP Protocol
 * Omnichain interoperability for BTC, stablecoins, and tokenized assets using Light Clients and MPC-TSS. Peer-to-peer cross-chain swaps without trusted third parties.
 * Website: [MAP Protocol](https://www.mapprotocol.io)
