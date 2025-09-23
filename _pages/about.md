@@ -32,7 +32,7 @@ My research aims at developing secure and scalable decentralized infrastructures
 ### PolyLink
 * A blockchain-based decentralized edge AI platform for large language model (LLM) inference. 
 
-![PolyLink](/images/projects/POLYLINK.png)
+![PolyLink](/images/projects/PolyLink.png)
 
 Website: [PolyLink](https://polylink.evan.cafe)
 ### MAP Protocol
