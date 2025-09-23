@@ -46,7 +46,7 @@ My research aims at developing secure and scalable decentralized infrastructures
 
 ![Digital Twins](/images/projects/DT1.png)
 
-## Publications
+## Publications (all full-text papers available at my [researchgate](https://www.researchgate.net/profile/Yinfeng-Cao-3?ev=hdr_xprf))
 
 * (C9) Jingwen Liang, Jiannong Cao, Bo Yang, Dongbin Bai, Hongbo Liu, <u>Yinfeng Cao</u>* (2025) "Decentralized Physical Infrastructure Networks: Backgrounds, Architectures, Open Issues, and Case Studies". *IEEE Blockchain 2025*.
 
