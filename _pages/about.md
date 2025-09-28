@@ -10,27 +10,25 @@ redirect_from:
 
 I am currently a PH.D. researcher working closely with world-wide universities and companies, especially in Hong Kong and Japan. My research aims at developing secure and scalable decentralized infrastructures (e.g., blockchains) for Web3 and other critical applications like digital twins and decentralized AI.
 
-Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking forward to connecting and collaborating!
+Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking forward to all kinds of connecting and collaborating!
 
 ## Research Interests
-* Web3
-* Decentralized Finance (DeFi)
-* Digital Twin
-* Metaverse
-* Blockchain
-* Edge Computing
+* Web3, Blockchain,Decentralized Finance (DeFi), Metaverse
+* Digital Twin, Edge Computing
+* Decentralized AI
+
 
 
 
 ## Education
-* Ph.D., in the Department of Computing, [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-2025
+* Ph.D., in the Department of Computing (supervised by [Prof. Jiannong Cao, IEEE Fellow, Vice President of PolyU](https://www4.comp.polyu.edu.hk/~csjcao/)), [The Hong Kong Polytechnic University (香港理工大學)](https://www.polyu.edu.hk), Hong Kong SAR, 2020-2025
 * Research Visiting Student (supervised by [Prof. Ruidong Li](https://sites.google.com/site/liruidong/)), [Kanazawa University (金沢大学)](http://www.kanazawa-u.ac.jp), Japan, 2024-2025
 * B.E., [Xidian University (西安电子科技大学)](https://www.xidian.edu.cn/), China, 2020
 
 ## Projects
 
 ### PolyLink
-* A blockchain-based decentralized edge AI platform for large language model (LLM) inference. 
+* Blockchain-based decentralized edge AI platform for large language model (LLM) inference. 
 * Website: [PolyLink](https://polylink.evan.cafe)
 
 ![PolyLink](/images/projects/PolyLink.png)
