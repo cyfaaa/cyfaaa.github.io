@@ -58,7 +58,7 @@ Reach me at: csyfcao [at] comp.polyu.edu.hk, or sliverwind99 (WeChat), looking f
 
 * (J4) Hongbo Liu, Jiannong Cao, <u>Yinfeng Cao</u>*, Dongbin Bai, Jinwen Liang, Ruidong Li. (2025). <span style="color:blue;">"EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN"</span>. *Cluster Computing.* **SCI JCR Q1**.
 
-* (J3) <u>Yinfeng Cao</u>, Jiannong Cao, Baoxia Du, Dongbin Bai, Mingjin Zhang, and Ruidong Li*. (2025). <span style="color:blue;">"ChainTwin: Blockchain-based Trustless Digital Twin Generation and Cross-Domain Adoption"</span>. *IEEE Transactions on Network Science and Engineering* (Major Revision). **SCI JCR Q1**.
+* (J3) <u>Yinfeng Cao</u>, Jiannong Cao, Baoxia Du, Dongbin Bai, Mingjin Zhang, and Ruidong Li*. (2025). <span style="color:blue;">"ChainTwin: Blockchain-based Trustless Digital Twin Generation and Cross-Domain Adoption"</span>. *IEEE Transactions on Network Science and Engineering*. **SCI JCR Q1**.
 
 * (J2) <u>Yinfeng Cao</u>, Jiannong Cao, Baoxia Du, and Ruidong Li* (2025). <span style="color:blue;">"Decentralized Digital Twin Network"</span>. *IEEE Communications Magazine.* **SCI JCR Q1**.
 
