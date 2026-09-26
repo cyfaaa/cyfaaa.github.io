@@ -12,3 +12,5 @@
 .publication-list .publication-classification,.publication-list .publication-classification a,.publication-list .publication-award{color:#b22222;font-weight:700}
 
 .publication-list,.paper-box-text{font-family:inherit}.page__content .publication-title,.page__content a.publication-title:visited{font-family:inherit;font-size:inherit;font-weight:400;font-style:normal;color:#5b9bc4}.page__content a.publication-title:hover{color:#377fae}.publication-list em{font-style:normal}
+
+.visitor-stats{clear:both;max-width:1280px;margin:2em auto 0;padding:1.2em;border-top:1px solid #eee;font-size:13px;color:#6f777d;text-align:center}.visitor-stats>a{display:inline-flex;align-items:center;gap:.8em;color:#5b9bc4}.visitor-stats img{width:110px;height:30px;object-fit:contain}.visitor-stats>span{display:block;margin-top:.4em;font-size:11px}.visitor-stats>span a{color:inherit}
