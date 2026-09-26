@@ -1,0 +1,14 @@
+/* Content adaptations to the unmodified MIT reference theme. */
+.skip{position:absolute;left:-9999px}.skip:focus{left:1em;top:1em;z-index:100;background:white;padding:1em}
+.portrait-frame{width:175px;height:175px;border:1px solid #f2f3f3;border-radius:50%;overflow:hidden}.author__avatar .portrait{width:100%;height:100%;max-width:none;object-fit:cover;padding:0;transform:scale(2.2);transform-origin:52% 38%;border-radius:0}
+.paper-box-image>div{position:relative;width:100%}.badge{z-index:1}.paper-box-text p:empty{display:none}.page__content a{overflow-wrap:anywhere}.page__content h1>a{font-size:16px}.page__content h1{scroll-margin-top:4em}.sidebar.sticky{position:sticky;top:4em}
+.project-table{width:100%;border-collapse:collapse}.project-table td,.project-table th{padding:.6em;border-bottom:1px solid #eee;text-align:left}.cv-document{width:100%;height:1120px;border:1px solid #eee}
+@media(max-width:924px){.portrait-frame{width:75px;height:75px}.sidebar.sticky{position:static}.author__urls{display:none}}
+@media(max-width:767px){.paper-box-image img{max-width:100%}.paper-box-text{width:100%}.project-table,.project-table tbody,.project-table tr,.project-table td{display:block}.project-table thead{display:none}.project-table td:before{content:attr(data-label);display:block;font-weight:bold}.cv-document{height:780px}}
+.paper-box.no-figure .paper-box-image{display:none}.paper-box.no-figure .paper-box-text{max-width:100%;padding-left:0}
+
+.publication-list{list-style:none;margin:1em 0;padding:0}.publication-list>li{margin-bottom:1.2em;padding-left:3em;text-indent:-3em}.publication-id{font-weight:700}.publication-classification{font-weight:600;color:#494e52}
+
+.publication-list .publication-classification,.publication-list .publication-classification a,.publication-list .publication-award{color:#b22222;font-weight:700}
+
+.publication-list,.paper-box-text{font-family:inherit}.page__content .publication-title,.page__content a.publication-title:visited{font-family:inherit;font-size:inherit;font-weight:400;font-style:normal;color:#5b9bc4}.page__content a.publication-title:hover{color:#377fae}.publication-list em{font-style:normal}

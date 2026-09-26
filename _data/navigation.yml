@@ -1,8 +1,21 @@
-# main links links
 main:
-  
-
-
-
-
-    
+  - title: "About Me"
+    url: "/#about-me"
+  - title: "News"
+    url: "/#-news"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Awards && Honors"
+    url: "/#-honors-and-awards"
+  - title: "Experiences"
+    url: "/#-experiences"
+  - title: "Talks"
+    url: "/#-talks"
+  - title: "Academic Services"
+    url: "/#-academic-services"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Demo"
+    url: "/demo/"
+  - title: "Teaching"
+    url: "/teaching/"

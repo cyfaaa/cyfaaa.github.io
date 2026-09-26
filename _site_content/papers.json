@@ -1,0 +1,474 @@
+[
+  {
+    "title": "On-Demand Snapshot Migration: Accelerating Container Migration in Low-Bandwidth Networks",
+    "authors": "Zhiyuan Hu, Jiannong Cao, Zhaorui Zhang, Yinfeng Cao, and Lei Yang",
+    "year": "2026",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "links": [
+      {
+        "label": "DOI: 10.1109/TMC.2026.3720463",
+        "url": "https://doi.org/10.1109/TMC.2026.3720463"
+      }
+    ],
+    "status": "Accepted",
+    "corresponding": false,
+    "award": "",
+    "badge": "IEEE TMC 2026",
+    "image": "/images/papers/snapshot.png",
+    "summary": "SEER predicts and transfers the files needed for container resumption to accelerate migration over low-bandwidth networks.",
+    "id": "J5",
+    "classifications": [
+      {
+        "label": "SCIE",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      },
+      {
+        "label": "CCF A",
+        "source": "https://www.ccf.org.cn/Academic_Evaluation/CN/"
+      },
+      {
+        "label": "JCR Q1 (2024)",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "EdenDID: An Edge Computing and Blockchain-based Decentralized Identity System for Web3 Applications and DePIN",
+    "authors": "Hongbo Liu, Jiannong Cao, Yinfeng Cao*, Dongbin Bai, Jinwen Liang, Ruidong Li",
+    "year": "2025",
+    "venue": "Cluster Computing.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1007/s10586-025-05746-7"
+      }
+    ],
+    "status": "",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/edendid.png",
+    "summary": "EdenDID combines edge computing and blockchain for decentralized identity in Web3 and DePIN.",
+    "badge": "Cluster Computing 2025",
+    "id": "J4",
+    "classifications": [
+      {
+        "label": "SCIE",
+        "source": "https://link.springer.com/journal/10586"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "ChainTwin: Blockchain-based Trustless Digital Twin Generation and Cross-Domain Adoption",
+    "authors": "Yinfeng Cao, Jiannong Cao, Baoxia Du, Dongbin Bai, Mingjin Zhang, and Ruidong Li*",
+    "year": "2025",
+    "venue": "IEEE Transactions on Network Science and Engineering",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/TNSE.2025.3619400"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/chaintwin.png",
+    "summary": "ChainTwin supports verifiable digital twin generation and adoption across domains.",
+    "badge": "IEEE TNSE 2025",
+    "id": "J3",
+    "classifications": [
+      {
+        "label": "SCIE",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      },
+      {
+        "label": "JCR Q1 (2024)",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "Decentralized Digital Twin Networks",
+    "authors": "Yinfeng Cao, Jiannong Cao, Baoxia Du, and Ruidong Li*",
+    "year": "2025",
+    "venue": "IEEE Communications Magazine.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/mcom.002.2400739"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/dedtn.png",
+    "summary": "This work presents a decentralized architecture for sharing and managing digital twins.",
+    "badge": "IEEE Communications Magazine 2025",
+    "id": "J2",
+    "classifications": [
+      {
+        "label": "SCIE",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      },
+      {
+        "label": "JCR Q1 (2024)",
+        "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "Security in Edge Blockchains: Attacks and Countermeasures",
+    "authors": "Yinfeng Cao, Jiannong Cao, Yuqin Wang, Kaile Wang, and Xun Liu",
+    "year": "2022",
+    "venue": "ZTE COMMUNICATIONS",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.12142/ZTECOM.202204002"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/edge-security.png",
+    "summary": "This survey examines attacks and countermeasures in edge blockchain systems.",
+    "badge": "ZTE Communications 2022",
+    "id": "J1",
+    "classifications": [
+      {
+        "label": "CCF T2 (2025)",
+        "source": "https://tech.zte.com.cn/about.html"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads",
+    "authors": "Song Wu, Bo Wang, Yifan Zhang, Yinfeng Cao*, and Xueqiang Wang",
+    "year": "2026",
+    "venue": "ACM SIGSAC Conference on Computer and Communications Security (CCS 2026).",
+    "links": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2609.09574"
+      }
+    ],
+    "status": "Accepted",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/ccs.png",
+    "summary": "This work investigates semi-drive-by splash ads and their risks in mobile advertising networks.",
+    "badge": "ACM CCS 2026",
+    "id": "C13",
+    "classifications": [
+      {
+        "label": "CCF A",
+        "source": "https://www.ccf.org.cn/Academic_Evaluation/NIS/zgjsjxhtjgjxshy/al/2017-03-13/586204.shtml"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "A Prototype for PDF Documents Integrity Verification Using Chinese National Cryptographic Algorithms and Hardware Isolation",
+    "authors": "Mau Lam Lo, Xin Yu Huo, and Yin Feng Cao",
+    "year": "2026",
+    "venue": "International Workshop on Efficient, Sustainable, and Trustworthy Network Intelligence (ESTNI), IEEE FINE 2026.",
+    "links": [],
+    "status": "Accepted workshop paper",
+    "corresponding": false,
+    "award": "",
+    "badge": "IEEE FINE / ESTNI 2026",
+    "image": "/images/papers/pdf-integrity.png",
+    "summary": "PDF-Inspector uses a hardware-rooted audit trail and Chinese cryptographic algorithms to detect tampering with signed PDF documents.",
+    "id": "C12",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "KV-SC: KV-Based Semantic Collaboration for Distributed Embodied Intelligence Networks",
+    "authors": "Baoxia Du, Ruidong Li, Yinfeng Cao, and Dusit Niyato",
+    "year": "2026",
+    "venue": "Embodied Intelligence Networks (EIN 2026).",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/infocom59046.2026.11680043"
+      }
+    ],
+    "status": "Accepted",
+    "corresponding": false,
+    "award": "",
+    "badge": "EIN 2026",
+    "image": "/images/papers/kvsc.png",
+    "summary": "KV-SC exchanges compressed key-value caches to support semantic collaboration among embodied agents.",
+    "id": "C11",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "Secure Load Data Interaction and Collaborative Forecasting for Smart Campus Energy Management",
+    "authors": "Huiyu Bao, Changze Zheng, Yuwei Ji, and Yinfeng Cao",
+    "year": "2026",
+    "venue": "International Workshop on Blockchain and Web3 for Education, Research, and Science (BERS), International Conference on Artificial Intelligence for Health and Education (ICAIHE 2026).",
+    "links": [
+      {
+        "label": "Program",
+        "url": "https://icaihe.org/ICAIHE2026_AdvanceProgram.pdf#page=32"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/stclf.png",
+    "summary": "This work combines blockchain-supported load data sharing with collaborative forecasting for smart campus energy management.",
+    "badge": "ICAIHE / BERS 2026",
+    "id": "C14",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "Secure and Privacy-Preserving Traffic Large Models Based on Blockchain",
+    "authors": "Xiaofeng Zheng, Yong Ding, Yinfeng Cao, Tongrui Zuo, Wenxiang Song, Kai Shao, and Peng Chen",
+    "year": "2026",
+    "venue": "International Workshop on Blockchain and Web3 for Education, Research, and Science (BERS), International Conference on Artificial Intelligence for Health and Education (ICAIHE 2026).",
+    "links": [
+      {
+        "label": "Program",
+        "url": "https://icaihe.org/ICAIHE2026_AdvanceProgram.pdf#page=32"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "badge": "ICAIHE / BERS 2026",
+    "id": "C15",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "FedCCA: Client-Centric Adaptation against Data Heterogeneity in Federated Learning on IoT Devices",
+    "authors": "Kaile Wang, Jiannong Cao, Yu Yang, Xiaoyin Li and Yinfeng Cao*",
+    "year": "2025",
+    "venue": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2025).",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/aiot66900.2025.00077"
+      }
+    ],
+    "status": "",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/fedcca.png",
+    "summary": "FedCCA adapts federated learning to client-level data heterogeneity on IoT devices.",
+    "badge": "IEEE AIoT 2025",
+    "id": "C10",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis",
+    "authors": "Yiwei Li, Jiannong Cao, Penghui Ruan, Divya Saxena, Songye Zhu and Yinfeng Cao*",
+    "year": "2025",
+    "venue": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2025).",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2511.23044"
+      }
+    ],
+    "status": "",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/g4d.png",
+    "summary": "This work uses geometry-consistent 4D Gaussian splatting for dynamic view synthesis from sparse inputs.",
+    "badge": "IEEE AIoT 2025",
+    "id": "C9",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "Decentralized Physical Infrastructure Networks: Backgrounds, Architectures, Open Issues, and Case Studies",
+    "authors": "Jingwen Liang, Jiannong Cao, Bo Yang, Dongbin Bai, Hongbo Liu, Yinfeng Cao*",
+    "year": "2025",
+    "venue": "IEEE Blockchain 2025.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/blockchain67634.2025.00018"
+      }
+    ],
+    "status": "",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/depin.png",
+    "summary": "This work reviews DePIN architectures, open issues, and representative case studies.",
+    "badge": "IEEE Blockchain 2025",
+    "id": "C8",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "PolyLink: A Blockchain Based Decentralized Edge AI Platform For LLM Inference",
+    "authors": "Hongbo Liu, Jiannong Cao, Bo Yang, Dongbin Bai, Yinfeng Cao*, Xiaoming Shen, Yinan Zhang, Jingwen Liang, Shan Jiang, Mingjin Zhang",
+    "year": "2025",
+    "venue": "IEEE Blockchain 2025.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/Blockchain67634.2025.00023"
+      }
+    ],
+    "status": "",
+    "corresponding": true,
+    "award": "",
+    "image": "/images/papers/polylink.png",
+    "summary": "PolyLink distributes LLM inference across edge devices using a blockchain-based platform.",
+    "badge": "IEEE Blockchain 2025",
+    "id": "C7",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "UnionChain: A Graph-based Shard Partitioning for Scalable Smart Contract Execution",
+    "authors": "Toshiki Takakubo, Yinfeng Cao, Ruidong Li, Jiannong Cao",
+    "year": "2025",
+    "venue": "3rd IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2025).",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/metacom65502.2025.00067"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/unionchain.png",
+    "summary": "UnionChain uses graph-based shard partitioning to support scalable smart contract execution.",
+    "badge": "IEEE MetaCom 2025",
+    "id": "C6",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications",
+    "authors": "Yinfeng Cao, Jiannong Cao, Dongbin Bai, Long Wen*, Yang Liu, and Ruidong Li*",
+    "year": "2025",
+    "venue": "The ACM Web Conference 2025 (WWW 2025)",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1145/3696410.3714867"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/mapprotocol/atlas"
+      },
+      {
+        "label": "Slides",
+        "url": "/files/talks/prsc-map-2025.pptx"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/map.png",
+    "summary": "MAP provides trustless cross-chain verification through a relay-chain architecture.",
+    "badge": "ACM WWW 2025",
+    "id": "C5",
+    "classifications": [
+      {
+        "label": "CCF A",
+        "source": "https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/zgjsjxhtjgjxshy/al/2017-04-25/592216.shtml"
+      }
+    ],
+    "featured_eligible": true
+  },
+  {
+    "title": "Eden: An Edge Computing Empowered Proof-of-Personhood Protocol for Anti-Sybil in Blockchain-based Metaverse",
+    "authors": "Yinfeng Cao, Jiannong Cao, Hongbo Liu, Zeyang Cui and Long Wen*",
+    "year": "2024",
+    "venue": "The 2nd International Conference on Intelligent Metaverse Technologies & Applications (iMETA2024)",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/imeta62882.2024.10808133"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "Best Paper Award Nomination",
+    "image": "/images/papers/eden.png",
+    "summary": "Eden uses edge-assisted proof of personhood to resist Sybil attacks in blockchain-based metaverses.",
+    "badge": "IEEE iMETA 2024",
+    "id": "C4",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "PolyTwin: Edge Blockchain-empowered Trustworthy Digital Twin Network for Metaverse",
+    "authors": "Yinfeng Cao, Jiannong Cao, Zeyang Cui, Dongbin Bai, Mingjin Zhang, Long Wen",
+    "year": "2024",
+    "venue": "The 2nd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2024)",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/metacom62920.2024.00026"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "",
+    "image": "/images/papers/polytwin.png",
+    "summary": "PolyTwin combines edge computing and blockchain to support trustworthy digital twin networks.",
+    "badge": "IEEE MetaCom 2024",
+    "id": "C3",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "PolyVerse: An Edge Computing-Empowered Metaverse with Physical-to-Virtual Projection",
+    "authors": "Yinfeng Cao, Jiannong Cao, Dongbin Bai, Zhiyuan Hu, Kaile Wang, Mingjin Zhang*",
+    "year": "2023",
+    "venue": "IEEE International Conference on Intelligent Metaverse Technologies and Applications (iMETA2023)",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1109/imeta59369.2023.10294558"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "Best Paper Award Nomination",
+    "image": "/images/papers/polyverse.png",
+    "summary": "PolyVerse projects physical objects into virtual environments using edge computing.",
+    "badge": "IEEE iMETA 2023",
+    "id": "C2",
+    "classifications": [],
+    "featured_eligible": false
+  },
+  {
+    "title": "Polychain: a generic blockchain as a service platform",
+    "authors": "Shan Jiang, Jiannong Cao, Juncen Zhu, and Yinfeng Cao",
+    "year": "2021",
+    "venue": "In Blockchain and Trustworthy Systems: Third International Conference, BlockSys 2021",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1007/978-981-16-7993-3_36"
+      }
+    ],
+    "status": "",
+    "corresponding": false,
+    "award": "Best Paper Award",
+    "image": "/images/papers/polychain.png",
+    "summary": "PolyChain provides a modular blockchain-as-a-service platform for developing blockchain applications.",
+    "badge": "BlockSys 2021",
+    "id": "C1",
+    "classifications": [],
+    "featured_eligible": false
+  }
+]

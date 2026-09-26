@@ -1,0 +1,9 @@
+- *2026.09*: I was promoted to Assistant Professor at HKCT Institute of Higher Education.
+- *2026.09*: I serve as the NGNI Representative on the IEEE ComSoc Student Competition Committee.
+- *2026.09*: I serve on the Technical Program Committees of IEEE AIoT 2026 and MetaCom 2026.
+- *2026.08*: Our paper *When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads* is accepted at ACM CCS 2026.
+- *2026.08*: Our paper on PDF document integrity verification was presented at the ESTNI Workshop, IEEE FINE 2026.
+- *2026.08*: I served as Program Chair of IIDS ACBC 2026.
+- *2026.07*: Our paper *On-Demand Snapshot Migration: Accelerating Container Migration in Low-Bandwidth Networks* is accepted in IEEE Transactions on Mobile Computing.
+- *2026.06*: I serve as Workshop Co-Chair of IEEE AIoT 2026.
+- *2026.04*: Our poster *Understanding Risks of Semi-Drive-By Splash Ads* is accepted at IEEE S&P 2026.

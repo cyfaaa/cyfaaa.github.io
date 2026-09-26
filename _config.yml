@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yinfeng CAO"
-  avatar           : "IMG_6889.jpeg"
-  bio              : "Web3, Blockchain, Edge Computing, Digital Twin"
+  avatar           : "yinfeng-cao.jpg"
+  bio              : "Assistant Professor · Blockchain, Edge AI and Digital Twins"
   location         : "Hong Kong"
-  affiliation      : "The Hong Kong Polytechnic University"
+  affiliation      : "HKCT Institute of Higher Education"
   googlescholar    : "https://scholar.google.com.hk/citations?user=xos6JXEAAAAJ&hl=zh-CN"
-  email            : "cyf0107@icloud.com"
+  email            : "kevincao@ctihe.edu.hk"
   researchgate     :  "https://www.researchgate.net/profile/Yinfeng-Cao-3?ev=hdr_xprf"
 
   github           : "cyfaaa"  
@@ -101,6 +101,9 @@ include:
   - _pages
   - files
 exclude:
+  - scripts
+  - LOCAL_PREVIEW.md
+  - _site_content
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -116,7 +119,6 @@ exclude:
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
-  - assets/js/vendor
   - config
   - gulpfile.js
   - log
