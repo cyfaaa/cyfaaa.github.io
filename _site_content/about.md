@@ -8,8 +8,8 @@ My research focuses on **trustworthy decentralized AI** for applications in educ
 
 ## Appointments
 
-- **Assistant Professor**, Institute of Cyberspace Technology, HKCT Institute of Higher Education — September 2026–present
-- **Lecturer**, Institute of Cyberspace Technology, HKCT Institute of Higher Education — November 2025–August 2026
+- **HKCT Institute of Higher Education**, Institute of Cyberspace Technology — November 2025–present
+    - Assistant Professor, September 2026–present; Lecturer, November 2025–August 2026
 - **Postdoctoral Fellow (part-time)**, Department of Computing, The Hong Kong Polytechnic University — October 2025–present
 - **Visiting Research Student**, Kanazawa University, Japan, 2024–2025; supervised by [Prof. Ruidong Li](https://sites.google.com/site/liruidong/)
 

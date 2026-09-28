@@ -1,4 +1,3 @@
-- *2026.09*: I was promoted to Assistant Professor at HKCT Institute of Higher Education.
 - *2026.09*: I serve as the NGNI Representative on the IEEE ComSoc Student Competition Committee.
 - *2026.09*: I serve on the Technical Program Committees of IEEE AIoT 2026 and MetaCom 2026.
 - *2026.08*: Our paper *When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads* is accepted at ACM CCS 2026.

@@ -40,7 +40,7 @@ def publications(selected=False):
   card_class='paper-box' if visual else 'paper-box no-figure'
   out+=f'<div class="{card_class}"><div class="paper-box-image"><div><div class="badge">{esc(badge)}</div>{visual}</div></div><div class="paper-box-text"><p>{heading}</p><p>{authors}</p>{desc}<p>{esc(note)}</p><p>{classification}</p><p>{resources}</p></div></div>'
  return out if selected else out+'</ul>'
-NAV=[('About Me','/#about-me'),('News','/#-news'),('Publications','/publications/'),('Awards && Honors','/#-honors-and-awards'),('Experiences','/#-experiences'),('Talks','/#-talks'),('Academic Services','/#-academic-services'),('Projects','/projects/'),('Demo','/demo/'),('Teaching','/teaching/')]
+NAV=[('About Me','/#about-me'),('News','/#-news'),('Publications','/publications/'),('Awards && Honors','/#-honors-and-awards'),('Education Background','/#-education-background'),('Talks','/#-talks'),('Academic Services','/#-academic-services'),('Projects','/projects/'),('Demo','/demo/'),('Teaching','/teaching/')]
 def render(title,body):
  nav=''.join(f'<li class="masthead__menu-item"><a href="{u}">{esc(t)}</a></li>' for t,u in NAV)
  return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Yinfeng Cao (曹寅峰) — {esc(title)}</title><meta name="description" content="Yinfeng Cao, Assistant Professor at HKCT Institute of Higher Education. Blockchain, edge computing and digital twins."><link rel="stylesheet" href="/assets/css/reference-main.css"><link rel="stylesheet" href="/assets/css/academic.css?v=20260926-visitor-stats"><link rel="icon" href="/assets/favicon.svg"></head><body>
@@ -62,22 +62,13 @@ services='<ul>'+services+'</ul>'
 talks=md('talks') if (CONTENT/'talks.md').exists() else ''
 awards=extract('Selected Honors and Awards','Scholarships')+extract('Scholarships')
 awards=re.sub(r'<li>(.*?), (20[0-9]{2})</li>',r'<li><em>\2</em> \1</li>',awards)
-experiences=markdown.markdown("""- *2026.09 – Present*, **HKCT Institute of Higher Education**.
-    - Assistant Professor, Institute of Cyberspace Technology
-- *2025.11 – 2026.08*, **HKCT Institute of Higher Education**.
-    - Lecturer, Institute of Cyberspace Technology
-- *2025.10 – Present*, **The Hong Kong Polytechnic University**.
-    - Postdoctoral Fellow (part-time), Department of Computing
-- *2024 – 2025*, **Kanazawa University**.
-    - Visiting Research Student
-    - Advisor: [Prof. Ruidong Li](https://sites.google.com/site/liruidong/)
-- *2020 – 2025*, **The Hong Kong Polytechnic University**.
+education=markdown.markdown("""- *2020 – 2025*, **The Hong Kong Polytechnic University**.
     - Ph.D. in Computing
     - Advisor: [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)
 - *2016 – 2020*, **Xidian University**.
     - B.Eng. in Information Security, Experimental Class in Cybersecurity
 """)
-home=about+section('News','-news',news)+section('Selected Publications <a href="/publications/">[FullList]</a>','-publications',publications(True))+section('Awards && Honors','-honors-and-awards',awards)+section('Experiences','-experiences',experiences)+section('Talks','-talks',talks)+section('Academic Services','-academic-services',services)
+home=about+section('News','-news',news)+section('Selected Publications <a href="/publications/">[FullList]</a>','-publications',publications(True))+section('Awards && Honors','-honors-and-awards',awards)+section('Education Background','-education-background',education)+section('Talks','-talks',talks)+section('Academic Services','-academic-services',services)
 pages={'':('Homepage',home),'publications':('Publications',section('Publications','-publications',publications())),'news':('News',section('News','-news',news)),'service':('Academic Services',section('Academic Services','-academic-services',services)),'talks':('Talks',section('Talks','-talks',talks)),'projects':('Projects',section('Projects','projects',md('projects'))),'demo':('Demo',section('Demo','demo',md('demo'))),'teaching':('Teaching',section('Teaching','teaching',md('teaching'))),'cv':('CV',section('CV','cv',md('cv')))}
 for key,(title,body) in pages.items():
  dest=ROOT/key/'index.html';dest.parent.mkdir(exist_ok=True);dest.write_text(render(title,body))
